@@ -53,4 +53,14 @@ table {
   display: inline-block;
   margin: auto 10px;
 }
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+textarea,select
+{
+     width: 100%;
+     border-radius: 5px;
+     padding: 15px auto;
+}
 
